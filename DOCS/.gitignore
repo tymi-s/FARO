@@ -1,0 +1,6 @@
+# PDF-y źródeł trzymane poza repozytorium (prawa autorskie)
+praca/literatura/pdf/
+
+# Pliki robocze skryptów weryfikacji źródeł
+praca/literatura/_verify_*.py
+praca/literatura/_verify_*.json
